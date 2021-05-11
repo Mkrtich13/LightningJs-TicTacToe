@@ -7,8 +7,12 @@
     "debug": false
   },
   "platformSettings": {
+    "inspector": false,
     "path": "./static",
-    "log": true,
-    "showVersion": true
+    "log": false,
+    "showVersion": true,
+    "imageServerUrl": "//cdn.metrological.com/image",
+    "proxyUrl": "//cdn.metrological.com/proxy",
+    "textureMode": true
   }
 }
