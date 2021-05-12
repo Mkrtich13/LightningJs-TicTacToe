@@ -4,3 +4,4 @@ build
 dist
 releases
 .tmp
+.DS_Store
